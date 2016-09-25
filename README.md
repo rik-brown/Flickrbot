@@ -12,3 +12,5 @@ The cellendipity flickrbot is running on an Amazon EC2 server and posting to <a 
 
 The example included here will create & upload a new image once every 24 hours.
 The image will be flagged as 'private' in the flickr account.
+
+I have included two examples of the main bot.js code: one suited for running in linux on an EC2 server, and the one I use when testing on a windows machine.
