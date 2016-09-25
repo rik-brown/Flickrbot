@@ -1,0 +1,16 @@
+{
+  "name": "cellendipity",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "flickrbot.js",
+  "scripts": {
+    "start": "node flickrbot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flickrapi": "^0.6.0",
+    "fs": "0.0.1-security"
+  }
+}
