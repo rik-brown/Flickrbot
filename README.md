@@ -9,3 +9,6 @@ It assumes that full authentication data is aquired from Flickr using the releva
 More details on uploading images to Flickr <a href="https://www.flickr.com/services/api/upload.api.html">can be found here</a>.
 
 The cellendipity flickrbot is running on an Amazon EC2 server and posting to <a href="https://www.flickr.com/photos/144469250@N07/">this account</a>.
+
+The example included here will create & upload a new image once every 24 hours.
+The image will be flagged as 'private' in the flickr account.
